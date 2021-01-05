@@ -5,3 +5,19 @@ screen for the clicked item.
 
 2.Product Detail Screen - place where you can view and edit all the details about
 the product
+
+
+## Project setup and usage
+
+Install dependencies:
+
+```
+yarn
+```
+
+Run development server:
+
+```
+yarn dev
+```
+runs on localhost:3000 
